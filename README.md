@@ -8,7 +8,7 @@ A modern **Save Editing Tool** designed to make BG3 save file management simple,
 
 ## 🚀 Download
 
-* **Latest Release:** [Download the BG3 Save Editor]()
+* **Latest Release:** [Download the BG3 Save Editor](https://github.com/BG3-Save-Editor-v2/.github/releases)
 
 ---
 
